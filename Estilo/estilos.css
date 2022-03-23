@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: rgb(101, 187, 52);
+    font-size: 30px;
+}
+#nombre{
+    height: 40px;
+    border: 10px solid blue;
+}
+.campos formulario{
+    width: 100%;
+    height: 20px;
+}
+.campoEnRojo{
+    border: 2px solid red;
+    border-radius: 4px;
+}
